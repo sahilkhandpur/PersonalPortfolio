@@ -51,6 +51,7 @@ sr.reveal('.skills__data',{interval: 200});
 sr.reveal('.skills__img',{interval: 600});
 sr.reveal('.glass',{interval: 200});
 sr.reveal('.certificates',{interval: 200});
+sr.reveal('.section-title',{interval: 200});
 
 
 /*SCROLL SKILLS*/
